@@ -9,6 +9,7 @@ Foto Flowchart :
 ![img alt](https://github.com/rizkiadrianurs/Mini-Project-2-Tiket-VIP-Reguler/blob/2b6a0a2099cd5cae24cd4361ab1ba0220a3a6555/Flowchat%20MnPro%202%20Rizki.jpg)
 
 Penjelasan Alur Program, Output dan Error Handling :
+A. Alur Program CRUD
 
 1. Setelah program di jalankan, program akan menampilkan Menu Login, di Menu Login pengguna akan di berikan 3 opsi. Pilihan pertama untuk Login sebagai Manager, Pilihan Ke dua Sebagai karyawan, pilihan ke tiga untuk logout atau menghentikan program.
 ![img alt](https://github.com/rizkiadrianurs/Mini-Project-2-Tiket-VIP-Reguler/blob/2b6a0a2099cd5cae24cd4361ab1ba0220a3a6555/Screenshot%202025-09-28%20201148.png)
@@ -43,7 +44,7 @@ conton : Tiket No 9
 ![img alt](https://github.com/rizkiadrianurs/Mini-Project-2-Tiket-VIP-Reguler/blob/72f69647600b0d4df70b3320e5aca966e05866c1/Screenshot%202025-09-28%20201714.png)
 
 10. Jika pengguna memilih opsi dua, program akan menampilkan tiket VIP dan Reguler yang tersisa
-!9img alt](https://github.com/rizkiadrianurs/Mini-Project-2-Tiket-VIP-Reguler/blob/72f69647600b0d4df70b3320e5aca966e05866c1/Screenshot%202025-09-28%20201750.png)
+![img alt](https://github.com/rizkiadrianurs/Mini-Project-2-Tiket-VIP-Reguler/blob/72f69647600b0d4df70b3320e5aca966e05866c1/Screenshot%202025-09-28%20201750.png)
 
 11. Jika pengguna memilih opsi tiga, program akan menampilakan data tiket terbaru di Data Pusat, lalu program akan meminta pengguna untuk menginput No Tiket yang ingin di hapus di Data Pusat. Setelah itu Program akan menampilkan output bahwa no tiket telah di hapus.
 ![img alt](https://github.com/rizkiadrianurs/Mini-Project-2-Tiket-VIP-Reguler/blob/72f69647600b0d4df70b3320e5aca966e05866c1/Screenshot%202025-09-28%20201843.png)
@@ -56,3 +57,14 @@ conton : Tiket No 9
 
 14. jika pengguna memilih opsi enam, maka program akan terhenti
 ![img ilt](https://github.com/rizkiadrianurs/Mini-Project-2-Tiket-VIP-Reguler/blob/72f69647600b0d4df70b3320e5aca966e05866c1/Screenshot%202025-09-28%20202019.png)
+
+B. Error Handling 
+1. ValueError :
+![img ilt](https://github.com/rizkiadrianurs/Mini-Project-2-Tiket-VIP-Reguler/blob/0e94d541437041e3c3b51a8387fe45edb2ab80a3/Screenshot%202025-09-28%20223814.png)
+
+2. Keyboard interupt :
+![img ilt](https://github.com/rizkiadrianurs/Mini-Project-2-Tiket-VIP-Reguler/blob/0e94d541437041e3c3b51a8387fe45edb2ab80a3/Screenshot%202025-09-28%20223828.png)
+
+3. EOFError :
+![img ilt](https://github.com/rizkiadrianurs/Mini-Project-2-Tiket-VIP-Reguler/blob/0e94d541437041e3c3b51a8387fe45edb2ab80a3/Screenshot%202025-09-28%20223925.png)
+
