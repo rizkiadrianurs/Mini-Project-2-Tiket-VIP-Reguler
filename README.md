@@ -36,3 +36,25 @@ conton 2 : Tiket No 79
 ![img alt](https://github.com/rizkiadrianurs/Mini-Project-2-Tiket-VIP-Reguler/blob/e3b83fdbe17e2027824fd69323be980c93475baf/Screenshot%202025-09-28%20201615.png)
 
 8. Untuk contoh ke dua, pengguna akan memilih opsi 1, yaitu sebagai manager.Setelah itu pengguna akan di minta untuk menginput Username dan Password untuk login.
+![img alt](https://github.com/rizkiadrianurs/Mini-Project-2-Tiket-VIP-Reguler/blob/e3b83fdbe17e2027824fd69323be980c93475baf/Screenshot%202025-09-28%20201642.png)
+
+9. Setelah berhasil login, program akan menampilkan menu baru khusus untuk manager. Di menu tersebut terdapat 6 opsi. Pilihan pertama untuk melihat data pusat, pilihan ke dua untuk mengecek sisa tiket VIP dan Reguler, Menghapus Tiket Dari Data Pusat, Update Tiket Di Data Pusat dan Memasukkan Tiket ke Data Pusat
+![img alt](https://github.com/rizkiadrianurs/Mini-Project-2-Tiket-VIP-Reguler/blob/72f69647600b0d4df70b3320e5aca966e05866c1/Screenshot%202025-09-28%20201702.png)
+
+10. Jika pengguna memilih opsi satu, program akan menampilkan data terbaru dari Data Pusat
+![img alt](https://github.com/rizkiadrianurs/Mini-Project-2-Tiket-VIP-Reguler/blob/72f69647600b0d4df70b3320e5aca966e05866c1/Screenshot%202025-09-28%20201714.png)
+
+11. Jika pengguna memilih opsi dua, program akan menampilkan tiket VIP dan Reguler yang tersisa
+!9img alt](https://github.com/rizkiadrianurs/Mini-Project-2-Tiket-VIP-Reguler/blob/72f69647600b0d4df70b3320e5aca966e05866c1/Screenshot%202025-09-28%20201750.png)
+
+12. Jika pengguna memilih opsi tiga, program akan menampilakan data tiket terbaru di Data Pusat, lalu program akan meminta pengguna untuk menginput No Tiket yang ingin di hapus di Data Pusat. Setelah itu Program akan menampilkan output bahwa no tiket telah di hapus.
+![img alt](https://github.com/rizkiadrianurs/Mini-Project-2-Tiket-VIP-Reguler/blob/72f69647600b0d4df70b3320e5aca966e05866c1/Screenshot%202025-09-28%20201843.png)
+
+13. Jika pengguna memilih opsi empat, program akan menampilkan Data Tiket terbaru di Data Pusat, setelah itu program akan meminta pengguna menginput No Tiket Lama Dan Baru yang akan di ubah nanti nya. Lalu program akan menampilkan output bahwa No Tiket yang ada di Data Pusat telah terubah.
+![img alt](https://github.com/rizkiadrianurs/Mini-Project-2-Tiket-VIP-Reguler/blob/72f69647600b0d4df70b3320e5aca966e05866c1/Screenshot%202025-09-28%20201928.png)
+
+14. Jika pengguna memilih opsi lima, program akan menampilkan data Tiket VIP dan Tiket Reguler. Setelah itu program akan meminta pengguna untuk menginput No Tiket yang ingin di masukkan ke Data Pusat. lalu program akan menampilkan No Tiket telah di masukkan ke data pusat
+![img ilt](https://github.com/rizkiadrianurs/Mini-Project-2-Tiket-VIP-Reguler/blob/72f69647600b0d4df70b3320e5aca966e05866c1/Screenshot%202025-09-28%20202002.png)
+
+15. jika pengguna memilih opsi enam, maka program akan terhenti
+![img ilt](https://github.com/rizkiadrianurs/Mini-Project-2-Tiket-VIP-Reguler/blob/72f69647600b0d4df70b3320e5aca966e05866c1/Screenshot%202025-09-28%20202019.png)
