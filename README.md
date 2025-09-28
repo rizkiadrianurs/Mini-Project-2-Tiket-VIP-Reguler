@@ -21,15 +21,13 @@ A. Alur Program CRUD
 3. Setelah berhasil login, program akan menampilkan menu baru khusus untuk karyawan. Di menu tersebut terdapat 3 opsi. Pilihan pertama untuk Mengecek Tiket VIP atau Reguler, pilihan ke dua untuk Pengecekan Kursi VIP dan Reguler, dan pilihan ke tiga untuk kembali ke Menu Login.
 ![img alt](https://github.com/rizkiadrianurs/Mini-Project-2-Tiket-VIP-Reguler/blob/75f5959e77562eb134d017210f6ee9758d408c05/Screenshot%202025-09-28%20201421.png)
 
-4. Jika pengguna memilih pilihan pertama, program akan meminta pengguna untuk Menginput No Tiket yang ingin di periksa apakah tiket tersebut VIP atau Reguler.Lalu program akan menghapus no tiket tersebut di list VIP atau Reguler dan akan menambahkan nya ke Data Pusat, setelah itu program akan memberikan Output apakah Tiket tersebut VIP atau Reguler
-
+4. Jika pengguna memilih pilihan pertama, program akan meminta pengguna untuk Menginput No Tiket yang ingin di periksa apakah tiket tersebut VIP atau Reguler.Lalu program akan menghapus no tiket tersebut di list VIP atau Reguler dan akan menambahkan nya ke Data Pusat, setelah itu program akan memberikan Output apakah Tiket tersebut VIP atau Reguler.
 contoh 1 : Tiket No 58
 ![img alt](https://github.com/rizkiadrianurs/Mini-Project-2-Tiket-VIP-Reguler/blob/3ab906f90a0ced95c1d7ba3709fe06ced631c265/Screenshot%202025-09-28%20220539.png)
 contoh 2 : Tiket No 1
 ![img alt](https://github.com/rizkiadrianurs/Mini-Project-2-Tiket-VIP-Reguler/blob/2b6a0a2099cd5cae24cd4361ab1ba0220a3a6555/Screenshot%202025-09-28%20201304.png)
  
-5. Jika pengguna memilih pilihan ke dua, setelah itu program akan meminta No Tiket yang ingin di periksa kursi nya, lalu program akan memberikan output dimana kursi nya
-
+5. Jika pengguna memilih pilihan ke dua, setelah itu program akan meminta No Tiket yang ingin di periksa kursi nya, lalu program akan memberikan output dimana kursi nya.
 contoh 1 : Tiket No 9
 ![img alt](https://github.com/rizkiadrianurs/Mini-Project-2-Tiket-VIP-Reguler/blob/2b6a0a2099cd5cae24cd4361ab1ba0220a3a6555/Screenshot%202025-09-28%20201529.png
 )
