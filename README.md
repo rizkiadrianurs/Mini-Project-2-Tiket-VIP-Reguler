@@ -5,4 +5,9 @@ Tiket VIP & Reguler Konser
 - Nim   : 2509116049
 - Kelas : B
 
-![img alt](
+Foto Flowchart :
+![img alt](https://github.com/rizkiadrianurs/Mini-Project-2-Tiket-VIP-Reguler/blob/2b6a0a2099cd5cae24cd4361ab1ba0220a3a6555/Flowchat%20MnPro%202%20Rizki.jpg)
+
+Penjelasan Alur Program, Output dan Error Handling :
+
+1. ![img alt](https://github.com/rizkiadrianurs/Mini-Project-2-Tiket-VIP-Reguler/blob/2b6a0a2099cd5cae24cd4361ab1ba0220a3a6555/Screenshot%202025-09-28%20201148.png)
