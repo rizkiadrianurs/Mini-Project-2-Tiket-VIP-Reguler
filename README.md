@@ -27,7 +27,7 @@ contoh 1 : Tiket No 58
 contoh 2 : Tiket No 1
 ![img alt](https://github.com/rizkiadrianurs/Mini-Project-2-Tiket-VIP-Reguler/blob/2b6a0a2099cd5cae24cd4361ab1ba0220a3a6555/Screenshot%202025-09-28%20201304.png)
  
-5. Jika pengguna memilih pilihan ke dua, setelah itu program akan meminta No Tiket yang ingin di periksa kursi nya, lalu program akan memberikan output dimana kursi nya.
+5. Jika pengguna memilih pilihan ke dua, setelah itu program akan meminta No Tiket yang ingin di periksa kursi nya, lalu program akan memberikan output dimana kursi nya.                                                            
 contoh 1 : Tiket No 9
 ![img alt](https://github.com/rizkiadrianurs/Mini-Project-2-Tiket-VIP-Reguler/blob/2b6a0a2099cd5cae24cd4361ab1ba0220a3a6555/Screenshot%202025-09-28%20201529.png
 )
