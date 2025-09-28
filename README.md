@@ -9,6 +9,7 @@ Foto Flowchart :
 ![img alt](https://github.com/rizkiadrianurs/Mini-Project-2-Tiket-VIP-Reguler/blob/2b6a0a2099cd5cae24cd4361ab1ba0220a3a6555/Flowchat%20MnPro%202%20Rizki.jpg)
 
 Penjelasan Alur Program, Output dan Error Handling :
+
 A. Alur Program CRUD
 
 1. Setelah program di jalankan, program akan menampilkan Menu Login, di Menu Login pengguna akan di berikan 3 opsi. Pilihan pertama untuk Login sebagai Manager, Pilihan Ke dua Sebagai karyawan, pilihan ke tiga untuk logout atau menghentikan program.
