@@ -30,7 +30,7 @@ conton : Tiket No 9
 ![img alt](https://github.com/rizkiadrianurs/Mini-Project-2-Tiket-VIP-Reguler/blob/2b6a0a2099cd5cae24cd4361ab1ba0220a3a6555/Screenshot%202025-09-28%20201529.png
 )
 
-6. Jika pengguna memilih pilihan ke tiga, program akan lamgsung kembali ke Menu Login
+6. Jika pengguna memilih pilihan ke tiga, program akan langsung kembali ke Menu Login
 ![img alt](https://github.com/rizkiadrianurs/Mini-Project-2-Tiket-VIP-Reguler/blob/e3b83fdbe17e2027824fd69323be980c93475baf/Screenshot%202025-09-28%20201615.png)
 
 7. Untuk contoh ke dua, pengguna akan memilih opsi 1, yaitu sebagai manager.Setelah itu pengguna akan di minta untuk menginput Username dan Password untuk login.
