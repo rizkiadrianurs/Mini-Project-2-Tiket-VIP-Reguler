@@ -21,7 +21,7 @@ Penjelasan Alur Program, Output dan Error Handling :
 
 4. contoh pertama, pengguna akan memilih pilihan pertama, Setelah itu program akan meminta pengguna untuk Menginput No Tiket yang ingin di periksa apakah tiket tersebut VIP atau Reguler.Lalu program akan menghapus no tiket tersebut di list VIP atau Reguler dan akan menambahkan nya ke Data Pusat, setelah itu program akan memberikan Output apakah Tiket tersebut VIP atau Reguler
 contoh 1 : Tiket No 58
-![img alt](https://github.com/rizkiadrianurs/Mini-Project-2-Tiket-VIP-Reguler/blob/e35722d0c34afe91578c7f4f344ac99e541dc957/Screenshot%202025-09-28%20201436.png)
+![img alt](https://github.com/rizkiadrianurs/Mini-Project-2-Tiket-VIP-Reguler/blob/3ab906f90a0ced95c1d7ba3709fe06ced631c265/Screenshot%202025-09-28%20220539.png)
 contoh 2 : Tiket No 1
 ![img alt](https://github.com/rizkiadrianurs/Mini-Project-2-Tiket-VIP-Reguler/blob/2b6a0a2099cd5cae24cd4361ab1ba0220a3a6555/Screenshot%202025-09-28%20201304.png)
  
