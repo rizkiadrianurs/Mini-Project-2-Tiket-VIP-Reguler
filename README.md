@@ -58,7 +58,7 @@ contoh 2 : Tiket No 79
 14. Jika pengguna memilih opsi lima, program akan menampilkan data Tiket VIP dan Tiket Reguler. Setelah itu program akan meminta pengguna untuk menginput No Tiket yang ingin di masukkan ke Data Pusat. lalu program akan menampilkan No Tiket telah di masukkan ke data pusat
 ![img ilt](https://github.com/rizkiadrianurs/Mini-Project-2-Tiket-VIP-Reguler/blob/72f69647600b0d4df70b3320e5aca966e05866c1/Screenshot%202025-09-28%20202002.png)
 
-15. jika pengguna memilih opsi enam, maka program akan terhenti
+15. jika pengguna memilih opsi enam, maka program akan kemabli ke Menu Login. Dan jika pengguna memilih opsi 3 pada menu. program akan terhenti.
 ![img ilt](https://github.com/rizkiadrianurs/Mini-Project-2-Tiket-VIP-Reguler/blob/72f69647600b0d4df70b3320e5aca966e05866c1/Screenshot%202025-09-28%20202019.png)
 
 B. Error Handling 
