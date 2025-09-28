@@ -1,2 +1,8 @@
 # Mini-Project-2-Tiket-VIP-Reguler
-Rizki Adrianur Saputra / Nim : 2509116049
+Tiket VIP & Reguler Konser
+
+- Nama  : Rizki Adrianur Saputra
+- Nim   : 2509116049
+- Kelas : B
+
+![img alt](
