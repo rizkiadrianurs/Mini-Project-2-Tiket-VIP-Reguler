@@ -49,10 +49,10 @@ contoh 2 : Tiket No 79
 10. Jika pengguna memilih opsi dua, program akan menampilkan tiket VIP dan Reguler yang tersisa
 ![img alt](https://github.com/rizkiadrianurs/Mini-Project-2-Tiket-VIP-Reguler/blob/72f69647600b0d4df70b3320e5aca966e05866c1/Screenshot%202025-09-28%20201750.png)
 
-11. Jika pengguna memilih opsi tiga, program akan menampilakan data tiket terbaru dari Data Pusat, lalu program akan meminta pengguna untuk menginput No Tiket yang ingin di hapus di Data Pusat. Setelah itu Program akan menampilkan output bahwa no tiket telah di hapus.
+11. Jika pengguna memilih opsi tiga, program akan menampilkan data tiket terbaru dari Data Pusat, lalu program akan meminta pengguna untuk menginput No Tiket yang ingin di hapus di Data Pusat. Setelah itu Program akan menampilkan output bahwa no tiket telah di hapus.
 ![img alt](https://github.com/rizkiadrianurs/Mini-Project-2-Tiket-VIP-Reguler/blob/72f69647600b0d4df70b3320e5aca966e05866c1/Screenshot%202025-09-28%20201843.png)
 
-12. Jika pengguna memilih opsi empat, program akan menampilkan Data Tiket terbaru dari Data Pusat, setelah itu program akan meminta pengguna menginput No Tiket Lama Dan Baru yang akan di ubah nanti nya. Lalu program akan menampilkan output bahwa No Tiket yang ada di Data Pusat telah terubah.
+12. Jika pengguna memilih opsi empat, program akan menampilkan Data Tiket terbaru dari Data Pusat, setelah itu program akan meminta pengguna menginput No Tiket Lama dan Baru yang akan di ubah nanti nya. Lalu program akan menampilkan output bahwa No Tiket yang ada di Data Pusat telah terubah.
 ![img alt](https://github.com/rizkiadrianurs/Mini-Project-2-Tiket-VIP-Reguler/blob/72f69647600b0d4df70b3320e5aca966e05866c1/Screenshot%202025-09-28%20201928.png)
 
 13. Jika pengguna memilih opsi lima, program akan menampilkan data Tiket VIP dan Tiket Reguler. Setelah itu program akan meminta pengguna untuk menginput No Tiket yang ingin di masukkan ke Data Pusat. lalu program akan menampilkan No Tiket telah di masukkan ke data pusat
