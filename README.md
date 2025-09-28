@@ -40,7 +40,7 @@ contoh 2 : Tiket No 79
 8. Untuk contoh ke dua, pengguna akan memilih opsi 1, yaitu sebagai manager.Setelah itu pengguna akan di minta untuk menginput Username dan Password untuk login.
 ![img alt](https://github.com/rizkiadrianurs/Mini-Project-2-Tiket-VIP-Reguler/blob/e3b83fdbe17e2027824fd69323be980c93475baf/Screenshot%202025-09-28%20201642.png)
 
-9. Setelah berhasil login, program akan menampilkan menu baru khusus untuk manager. Di menu tersebut terdapat 6 opsi. Pilihan pertama untuk melihat data pusat, pilihan ke dua untuk mengecek sisa tiket VIP dan Reguler, Menghapus Tiket Dari Data Pusat, Update Tiket Di Data Pusat dan Memasukkan Tiket ke Data Pusat
+9. Setelah berhasil login, program akan menampilkan menu baru khusus untuk manager. Di menu tersebut terdapat 6 opsi. Pilihan pertama untuk melihat data pusat, pilihan ke dua untuk mengecek sisa tiket VIP dan Reguler, pilihan ke tiga untuk Menghapus Tiket Dari Data Pusat, pilihan ke empat untuk Update Tiket Di Data Pusat, pilihan ke lima untuk Memasukkan Tiket ke Data Pusat dan pilihan ke enam untuk kembali ke Menu Login
 ![img alt](https://github.com/rizkiadrianurs/Mini-Project-2-Tiket-VIP-Reguler/blob/72f69647600b0d4df70b3320e5aca966e05866c1/Screenshot%202025-09-28%20201702.png)
 
 10. Jika pengguna memilih opsi satu, program akan menampilkan data terbaru dari Data Pusat
