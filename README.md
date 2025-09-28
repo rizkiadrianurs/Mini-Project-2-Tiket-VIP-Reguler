@@ -17,7 +17,7 @@ Penjelasan Alur Program, Output dan Error Handling :
 ![img alt](https://github.com/rizkiadrianurs/Mini-Project-2-Tiket-VIP-Reguler/blob/2b6a0a2099cd5cae24cd4361ab1ba0220a3a6555/Screenshot%202025-09-28%20201217.png)
 
 3. Setelah berhasil login, program akan menampilakn menu baru khusus untuk karyawan. Di menu tersebut terdapat 3 opsi. Pilihan pertama untuk Mengecek Tiket VIP atau Reguler, pilihan ke dua untuk Pengecekan Kursi VIP dan Reguler, dan pilihan ke tiga untuk kembali ke Menu Login.
-![img alt](https://github.com/rizkiadrianurs/Mini-Project-2-Tiket-VIP-Reguler/blob/2b6a0a2099cd5cae24cd4361ab1ba0220a3a6555/Screenshot%202025-09-28%20201529.png)
+![img alt](https://github.com/rizkiadrianurs/Mini-Project-2-Tiket-VIP-Reguler/blob/75f5959e77562eb134d017210f6ee9758d408c05/Screenshot%202025-09-28%20201421.png)
 
 4. contoh pertama, pengguna akan memilih pilihan pertama, Setelah itu program akan meminta pengguna untuk Menginput No Tiket yang ingin di periksa apakah tiket tersebut VIP atau Reguler.Lalu program akan menghapus no tiket tersebut di list VIP atau Reguler dan akan menambahkan nya ke Data Pusat, setelah itu program akan memberikan Output apakah Tiket tersebut VIP atau Reguler
 contoh 1 : Tiket No 58
