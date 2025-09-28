@@ -16,20 +16,23 @@ Penjelasan Alur Program, Output dan Error Handling :
 2. Sebagai contoh, pengguna akan memilih opsi ke 2, yaitu sebagai karyawan. Setelah itu pengguna akan di minta untuk menginput Username dan Password untuk login.
 ![img alt](https://github.com/rizkiadrianurs/Mini-Project-2-Tiket-VIP-Reguler/blob/2b6a0a2099cd5cae24cd4361ab1ba0220a3a6555/Screenshot%202025-09-28%20201217.png)
 
-3. Setelah berhasil login, program akan menampilakn menu baru khusus untuk karyawan. Di menu tersebut terdapat 3 opsi. Pilihan pertama untuk Mengecek Tiket VIP atau Reguler, pilihan ke dua untuk Pengecekan Kursi VIP dan Reguler, dan pilihan ke tiga untuk kembali ke Menu Login.
+3. Setelah berhasil login, program akan menampilkan menu baru khusus untuk karyawan. Di menu tersebut terdapat 3 opsi. Pilihan pertama untuk Mengecek Tiket VIP atau Reguler, pilihan ke dua untuk Pengecekan Kursi VIP dan Reguler, dan pilihan ke tiga untuk kembali ke Menu Login.
 ![img alt](https://github.com/rizkiadrianurs/Mini-Project-2-Tiket-VIP-Reguler/blob/75f5959e77562eb134d017210f6ee9758d408c05/Screenshot%202025-09-28%20201421.png)
 
-4. contoh pertama, pengguna akan memilih pilihan pertama, Setelah itu program akan meminta pengguna untuk Menginput No Tiket yang ingin di periksa apakah tiket tersebut VIP atau Reguler.Lalu program akan menghapus no tiket tersebut di list VIP atau Reguler dan akan menambahkan nya ke Data Pusat, setelah itu program akan memberikan Output apakah Tiket tersebut VIP atau Reguler
+4. Jika pengguna memilih pilihan pertama, program akan meminta pengguna untuk Menginput No Tiket yang ingin di periksa apakah tiket tersebut VIP atau Reguler.Lalu program akan menghapus no tiket tersebut di list VIP atau Reguler dan akan menambahkan nya ke Data Pusat, setelah itu program akan memberikan Output apakah Tiket tersebut VIP atau Reguler
 contoh 1 : Tiket No 58
 ![img alt](https://github.com/rizkiadrianurs/Mini-Project-2-Tiket-VIP-Reguler/blob/3ab906f90a0ced95c1d7ba3709fe06ced631c265/Screenshot%202025-09-28%20220539.png)
 contoh 2 : Tiket No 1
 ![img alt](https://github.com/rizkiadrianurs/Mini-Project-2-Tiket-VIP-Reguler/blob/2b6a0a2099cd5cae24cd4361ab1ba0220a3a6555/Screenshot%202025-09-28%20201304.png)
  
-6. Contoh ke dua, pengguna memilih pilihan ke dua, setelah itu program akan meminta No Tiket yang ingin di periksa kursi nya, setelah itu program akan memberikan output dimana kursi nya
+6. Jika pengguna memilih pilihan ke dua, setelah itu program akan meminta No Tiket yang ingin di periksa kursi nya, setelah itu program akan memberikan output dimana kursi nya
 contoh 1 : Tiket No 17
 ![img alt](https://github.com/rizkiadrianurs/Mini-Project-2-Tiket-VIP-Reguler/blob/2b6a0a2099cd5cae24cd4361ab1ba0220a3a6555/Screenshot%202025-09-28%20201436.png)
 conton 2 : Tiket No 79
 ![img alt](https://github.com/rizkiadrianurs/Mini-Project-2-Tiket-VIP-Reguler/blob/2b6a0a2099cd5cae24cd4361ab1ba0220a3a6555/Screenshot%202025-09-28%20201529.png
 )
 
-7. 
+7. Jika pengguna memilih pilihan ke tiga, program akan lamgsung kembali ke Menu Login
+![img alt](https://github.com/rizkiadrianurs/Mini-Project-2-Tiket-VIP-Reguler/blob/e3b83fdbe17e2027824fd69323be980c93475baf/Screenshot%202025-09-28%20201615.png)
+
+8. Untuk contoh ke dua, pengguna akan memilih opsi 1, yaitu sebagai manager.Setelah itu pengguna akan di minta untuk menginput Username dan Password untuk login.
